@@ -1,7 +1,7 @@
 ### Hi, I'm [Kunal](https://www.linkedin.com/in/kunal-burgul/) 👋
 ---
 
-Machine Learning Enthusiast and self-taught Python Developer from Hyderabad, India. 
+Deep Learning Enthusiast and self-taught Python Developer from Hyderabad, India. 
 
 Currently working as a Research Associate at IDRBT. I mostly work with ML and DL algorithms to solve Computer Vision, NLP and Data Science problems and 
 occassionally participate in hackathons.
