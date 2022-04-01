@@ -4,7 +4,7 @@
 Deep Learning Enthusiast and self-taught Python Developer from Hyderabad, India. 
 
 Currently working as a Research Associate at IDRBT. I mostly work with ML and DL algorithms to solve Computer Vision, NLP and Data Science problems and 
-occassionally participate in hackathons.
+occasionally participate in hackathons.
 
 - 🔭 I'm currently working on the following Projects.
   - Image Stitching.
