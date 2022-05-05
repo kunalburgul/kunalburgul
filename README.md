@@ -7,9 +7,10 @@ Currently working as a Research Associate at IDRBT. I mostly work with ML and DL
 occasionally participate in hackathons.
 
 - 🔭 I'm currently working on the following Projects.
-  - Image Stitching.
+  - PCB Image Stitching.
   - Unmasking the Masked Face with GAN's (Masked Face Recognition).
-  - Highly imbalanced cmu cert insider threat dataset.
+  - Generating the Spoofed Faces using the C-GAN.
+  <!---Highly imbalanced cmu cert insider threat dataset.--->
 - 🤝 Open for collaborations in ML, DL, Analytics and Data Science work..
 - 💬 Ask me about anything, I am happy to help;
 
