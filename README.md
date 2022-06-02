@@ -11,7 +11,7 @@ occasionally participate in hackathons.
   - Unmasking the Masked Face with GAN's (Masked Face Recognition).
   - Generating the Spoofed Faces using the C-GAN.
   <!---Highly imbalanced cmu cert insider threat dataset.--->
-- 🤝 Open for collaborations in ML, DL, Computer-Vision Analytics and Data Science work..
+- 🤝 Open for collaborations in ML, DL, Computer-Vision, Analytics and Data Science work..
 - 💬 Ask me about anything, I am happy to help;
 
 ⚡  😅  Fun fact: I love to hear silent music while coding...
